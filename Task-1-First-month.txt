@@ -1,0 +1,16 @@
+Font -Inter 
+Link :https://fonts.google.com/specimen/Inter
+
+Font size
+H1-78
+H2-24
+H3-20
+
+Colours :
+Green -A6FF34
+Font-Black -0B0A0A
+Font-white-E8E8E8
+Font-Gray -60625DA
+spot light-Black -0B0A0A
+Brand card-F5F5F5
+social media card-181818
